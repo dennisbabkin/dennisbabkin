@@ -2,4 +2,4 @@
 
 ### Software Development | Consulting Regarding Hard Software Problems | Research
 
-🌎 [Website](https://dennisbabkin.com/) | 📚 [Blog](https://dennisbabkin.com/blog/) | 📧 [Contact](https://dennisbabkin.com/contact/?desc=github-contact-page)
+[🌎 Website](https://dennisbabkin.com/) | [📚 Blog](https://dennisbabkin.com/blog/) | [📧 Contact](https://dennisbabkin.com/contact/?desc=github-contact-page)
